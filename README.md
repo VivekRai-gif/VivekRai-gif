@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VivekRai-gif
 - 👀 I’m interested in technology, coding, development, AI, research, hackathons, and collaboration.
 - 🌱 I’m currently learning backend development and exploring new technologies.
-- 💞️ I’m looking to collaborate on innovative projects like 'Save Youths' and 'Ride Together'.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: Email: vivekrai2416@gmail.com | LinkedIn: [Vivek Rai](https://www.linkedin.com/in/vivekrai-83581027b)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm passionate about using technology to enhance user experience and solve real-world problems!
