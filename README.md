@@ -8,7 +8,13 @@ vivekrai2416@gmail.com | [LinkedIn](https://www.linkedin.com/in/vivek-rai--/)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VivekRai-gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VivekRai-gif&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekRai-gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=VivekRai-gif&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 - 👋 Hi, I’m @VivekRai-gif
 - 👀 I’m interested in technology, coding, development, AI, research, hackathons, and collaboration.
