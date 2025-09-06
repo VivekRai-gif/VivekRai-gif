@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Vivek Rai, a 2nd-year B.Tech student, passionate about Web Development, AI/ML, and DSA. I thrive on building impactful tech solutions, exploring new innovations, and collaborating with like-minded developers. Let's create, innovate, and grow together! 🚀
+Hi there! 👋 I'm Vivek Rai, a 3rd-year B.Tech student, passionate about Web Development, AI/ML, and DSA. I thrive on building impactful tech solutions, exploring new innovations, and collaborating with like-minded developers. Let's create, innovate, and grow together! 🚀
 
 ## 🌐 Socials:
 vivekrai2416@gmail.com | [LinkedIn](https://www.linkedin.com/in/vivekrai-dev/)
