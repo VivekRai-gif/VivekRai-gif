@@ -54,6 +54,27 @@ Add repo links and a one-line impact statement for each to improve discoverabili
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VivekRai-gif&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+## 📊 GitHub Stats  
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=VivekRai-gif&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekRai-gif&theme=tokyonight" alt="GitHub Streak" height="150"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VivekRai-gif&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ---
 
 ### 🔥 Contribution Graph & Snake
@@ -91,7 +112,3 @@ Add repo links and a one-line impact statement for each to improve discoverabili
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
-
----
-
-Tips: Pin 3–6 repositories, add screenshots/README to each project, and keep the Featured Projects section linked and concise for maximum impact.
