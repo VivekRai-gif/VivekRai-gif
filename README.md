@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Vivek Rai</h1>
 <h3 align="center">
-I'm a 3rd-year B.Tech CSE (AI & ML) student passionate about Web Development, Artificial Intelligence, and Data Structures & Algorithms.  
+I'm a 3rd-year B.Tech CSE student passionate about Web Development, Artificial Intelligence, and Data Structures & Algorithms.  
 I love turning ideas into real-world tech solutions, exploring innovations, and collaborating with creative minds. 🚀  
 </h3>
 
@@ -37,7 +37,7 @@ I love turning ideas into real-world tech solutions, exploring innovations, and 
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -51,7 +51,7 @@ I love turning ideas into real-world tech solutions, exploring innovations, and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+</div> -->
 
 ###
 
