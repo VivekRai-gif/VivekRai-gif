@@ -41,19 +41,6 @@ Add repo links and a one-line impact statement for each to improve discoverabili
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivekRai-gif&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekRai-gif&theme=tokyonight" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VivekRai-gif&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ## 📊 GitHub Stats  
 
 <div align="center">
