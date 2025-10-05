@@ -1,8 +1,5 @@
 <!-- 🌐 Vivek Rai | GitHub Profile README -->
 
-<p align="center">
-
-</p>
 
 <h1 align="center">👋 Hi, I'm Vivek Rai</h1>
 <h3 align="center">🚀 AI & Web Developer | Open for Internships (Oct 2025 – Feb 2026)</h3>
