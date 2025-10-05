@@ -32,15 +32,6 @@
 
 ---
 
-### ⭐ Featured Projects
-- AI Automation — short summary (Next.js, Python, TensorFlow) — link your repo
-- Web App — short summary (React, Node, MongoDB) — link your repo
-- DSA Solutions — short summary (C++, Java) — link your repo
-
-Add repo links and a one-line impact statement for each to improve discoverability.
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -79,9 +70,6 @@ Add repo links and a one-line impact statement for each to improve discoverabili
 
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VivekRai-gif/VivekRai-gif/output/snake.svg" alt="Snake animation" />
 
 ###
 ---
