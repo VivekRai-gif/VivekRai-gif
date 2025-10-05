@@ -69,6 +69,13 @@ Add repo links and a one-line impact statement for each to improve discoverabili
   <img src="https://raw.githubusercontent.com/VivekRai-gif/VivekRai-gif/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 
 ### 🏆 Achievements
