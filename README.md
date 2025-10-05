@@ -73,7 +73,7 @@ Add repo links and a one-line impact statement for each to improve discoverabili
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/VivekRai-gif/VivekRai-gif/output/snake.svg" alt="Snake animation" />
 
 ###
 ---
