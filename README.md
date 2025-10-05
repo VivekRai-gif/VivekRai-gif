@@ -66,6 +66,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VivekRai-gif/VivekRai-gif/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=VivekRai-gif&limit=5&theme=tokyonight&combine_all_yearly_time=true" />
 </p>
 
 
