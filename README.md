@@ -55,7 +55,7 @@
 
 ---
 
-### 🔥 Contribution Graph & Snake
+### 🔥 Contribution Graph
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=VivekRai-gif&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
@@ -64,10 +64,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekRai-gif&bg_color=0d1117&color=7fdbca&line=00bfff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/VivekRai-gif/VivekRai-gif/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=VivekRai-gif&limit=5&theme=tokyonight&combine_all_yearly_time=true" />
-</p>
+</p> -->
 
 
 
