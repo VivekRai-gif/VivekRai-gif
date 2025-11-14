@@ -2,7 +2,7 @@
 
 
 <h1>👋 Hi, I'm Vivek Rai</h1>
-<h3>🚀 AI & Web Developer | Open for Internships (Oct 2025 – Feb 2026)</h3>
+<h3>🚀 AI & Web Developer | Open for Internships </h3>
 
 <p>
   <em>I build AI-driven, scalable web solutions and love collaborating on impactful projects.</em>
