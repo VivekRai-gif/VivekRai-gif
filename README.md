@@ -1,4 +1,4 @@
-<!-- 🌐 Vivek Rai | GitHub Profile README -->
+oo<!-- 🌐 Vivek Rai | GitHub Profile README -->
 
 
 <h1>👋 Hi, I'm Vivek Rai</h1>
@@ -81,19 +81,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=VivekRai-gif&theme=tokyonight&no-bg=true&margin-w=15" />
 </p>
 
----
-
-
-
-
-### 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=VivekRai-gif&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekRai-gif&bg_color=0d1117&color=7fdbca&line=00bfff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
 
 ---
 ## 🤝 Contributing
