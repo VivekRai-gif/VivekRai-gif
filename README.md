@@ -1,4 +1,4 @@
-oo<!-- 🌐 Vivek Rai | GitHub Profile README -->
+<!-- 🌐 Vivek Rai | GitHub Profile README -->
 
 
 <h1>👋 Hi, I'm Vivek Rai</h1>
