@@ -69,10 +69,7 @@
   <a href="https://twitter.com/vivek_rai_04" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/vivekrai-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/qynp3gqqix/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://instagram.com/_vivek_rai_04" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
----
 
 <!--
 
@@ -80,9 +77,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VivekRai-gif&theme=tokyonight&no-bg=true&margin-w=15" />
 </p>
--->>
-
----
+-->
 ## 🤝 Contributing
 Contributions are always welcome!  
 If you'd like to collaborate:
