@@ -7,8 +7,10 @@
 <p>
   <em>I build AI-driven, scalable web solutions and love collaborating on impactful projects.</em>
 </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=VivekRai-gif&label=Profile%20views&color=blue&style=plastic" />
+</p>
 
----
 
 
 ## 🧠 About Me
@@ -41,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivekRai-gif&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekRai-gif&theme=tokyonight" height="150" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=VivekRai-gif&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekRai-gif&theme=tokyonight" height="150" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VivekRai-gif&layout=compact&theme=tokyonight" height="150" />
 </div>
 
