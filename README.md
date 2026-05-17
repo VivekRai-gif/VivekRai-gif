@@ -14,7 +14,7 @@
 
 
 ## 🧠 About Me
-- 🎓 **B.Tech CSE** 
+- 🎓 **B.Tech CSE (2027 Batch)** 
 - 🔭 Currently working on: **AI Automation Projects**  
 - 🌱 Learning: **Next.js, TypeScript, AI Integrations**  
 - 💡 Interested in: **Ethical AI, Fintech AI, Web Applications**  
